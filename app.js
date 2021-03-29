@@ -18,7 +18,7 @@ const updateUI = (data) => {
     <div class="my-3">${weatherDeets.WeatherText}</div>
     <div class="display-4 my-4">
         <span>${weatherDeets.Temperature.Imperial.Value}</span>
-        <span>&deg;C</span>
+        <span>&deg;F</span>
     </div>
     `;
 
